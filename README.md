@@ -1,13 +1,13 @@
-## App Gifs
+## App Citas
 ### Tecnologías utilizadas
 
 - HTML
 - CSS
-- JS(React)
+- JS(Vanilla)
 
 
 
 
-#### Link del sitio web:  https://gifsapp.blentoom.com/
+#### Link del sitio web:  https://citas.blentoom.com/
 
-![](https://user-images.githubusercontent.com/58642814/160644888-441f2cbc-24ab-4e33-a4b4-f3752dbda229.PNG)
+![](https://user-images.githubusercontent.com/58642814/160910160-a0ae0b49-c2e5-4e40-abf7-06f86501d1f1.PNG)
